@@ -1,3 +1,3 @@
-# layout-advanced-html-css
+# Coursera-advanced-layout-with-html-css
 First project with Coursera and Meta - Front Development Certification
 For professional portfolio 26.11.2022
